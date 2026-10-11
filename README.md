@@ -18,8 +18,6 @@ Get the latest version on the **[Releases](../../releases/latest)** page:
 | macOS (Apple Silicon & Intel) | `TaskFlow-<version>-mac.dmg` |
 | Windows 10/11 (64-bit) | `TaskFlow-<version>-windows-setup.exe` |
 
-A clickable demo with sample data is attached to each release as `TaskFlow-preview.html` — open it in any browser.
-
 ### First launch
 
 The installers are not yet signed with paid Apple/Microsoft certificates, so the system asks once for permission:
